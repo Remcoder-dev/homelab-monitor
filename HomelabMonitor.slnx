@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/HomelabMonitor.Api/">
+    <Project Path="src/HomelabMonitor.Api/HomelabMonitor.Api.csproj" />
+  </Folder>
+</Solution>
