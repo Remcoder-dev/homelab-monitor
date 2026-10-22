@@ -1,6 +1,6 @@
 @HomelabMonitor.Api_HostAddress = http://localhost:5004
 
-GET {{HomelabMonitor.Api_HostAddress}}/weatherforecast/
+GET {{HomelabMonitor.Api_HostAddress}}/proxmox/resources/
 Accept: application/json
 
 ###
